@@ -1,0 +1,17 @@
+.button-controlls {
+  text-align: right;
+  margin-top: -25px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.todo-list-item.itemColor .todo-list-item-label {
+  font-weight: bold;
+  color: steelblue;
+}
+.btn {
+  margin-left: 3px;
+  margin-right: 4px;
+}
